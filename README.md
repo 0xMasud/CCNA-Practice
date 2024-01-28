@@ -11,4 +11,3 @@ Daily practice
 7. GRE Tunnel
 8. IPv6
 9. DHCP
-10. 
